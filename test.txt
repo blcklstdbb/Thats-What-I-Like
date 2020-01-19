@@ -1,1 +1,0 @@
-x=msgbox("Whoops!",6+16,"Whoops")
