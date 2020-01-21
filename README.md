@@ -17,6 +17,7 @@
 
 
 ## Windows Security
+* [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 * [Here Be Dragons: Reverse Engineering with Ghidra - Part 1](https://www.shogunlab.com/blog/2019/12/22/here-be-dragons-ghidra-1.html)
 * [Mike Bell: Extending Ghidra: from Script to Plugins and Beyond](https://thecyberwire.com/stories/Mike-Bell-Extending-Ghidra-from-Script-to-Plugins-and-Beyond.html)
 * [PentesterAcademy's Reverse Engineering Win32 Application course (PAID)](https://www.pentesteracademy.com/course?id=41)
