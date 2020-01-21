@@ -69,6 +69,7 @@
 * [Maddie Stone's REcon 2019 presention: Path To The Payload](https://recon.cx/media-archive/2019/Session.005.Maddie_Stone.The_path_to_the_payload_Android_Edition-J3ZnNl2GYjEfa.mp4)
   * [Slides - REcon 2019: Path To The Payload](https://github.com/maddiestone/ConPresentations/blob/master/REcon2019.PathToThePayload.pdf)
 * [Android Resources](https://blog.deesee.xyz/android/security/2020/01/13/android-resources.html)
+* [Android Unpacking Automation using Corellium Devices](https://github.com/corellium/corellium-android-unpacking)
 ### iOS Security
 * [Skiptracing Part 2: iOS](https://medium.com/@lerner98/skiptracing-part-2-ios-3c610205858b)
 * [Part 1: Heap Exploit Development](https://azeria-labs.com/heap-exploit-development-part-1/)
