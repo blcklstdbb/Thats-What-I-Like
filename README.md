@@ -12,6 +12,7 @@
   * [Technical Write Ups](#technical-write-ups)
 * [Incident Response](#incident-response)
   * [macOS IR](#macos-ir)
+* [Security Blogs](#security-blogs)
 * [Misc Resources](#misc-resources)
   * [Books](#books)
 
@@ -33,6 +34,8 @@
 * [Sam Bowne's Practical Malware Analysis class (FREE)](https://samsclass.info/126/126_F19.shtml)
 * [Unpacking Malware Series - Maze Ransomware](https://poxyran.github.io/poxyblog/src/pages/22-10-2019-unpacking-malware-series-maze-ransomware.html)
 ### Exploit Development
+* [Rensselaer Polytechnic Institute's Modern Binary Exploitation](https://github.com/RPISEC/MBE)
+* [Scaling up Binary Exploitation Education](https://blog.ret2.io/2018/09/11/scalable-security-education/)
 * [Creating a Rootkit to Learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
 * [Analyze Crashes to find Security Vulnerabilities in your Apps](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/november/analyze-crashes-to-find-security-vulnerabilities-in-your-apps)
 * [Open Security Training's Buffer Overflow mystery box](https://web.archive.org/web/20170222100242/https://thesprawl.org/research/ost-introductory-x86-buffer-overflow-mystery-box/)
@@ -82,6 +85,8 @@
 * [Getting Started With Objection + Frida](https://www.secjuice.com/objection-frida-guide/)
 
 ## Web App Security
+* [How to Build an Automated Recon Pipeline with Python and Luigi - Part I (Setup and Scope)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-01-how-to-build-an-automated-recon-pipeline-with-python-and-luigi/)
+* [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/)
 * [Security Best Practices for Managing API Access Tokens](https://dzone.com/articles/security-best-practices-for-managing-api-access-to)
 * [Common Threats and How to Prevent Them](https://auth0.com/docs/security/common-threats)
 * [Attacking the OAuth Protocol](https://dhavalkapil.com/blogs/Attacking-the-OAuth-Protocol/)
@@ -106,6 +111,9 @@
 * [Sam Bown's Incident Response class (FREE)](https://samsclass.info/152/152_F19.shtml)
 ### macOS IR
 * [Investigating Mac OS X Systems](https://www.youtube.com/watch?v=7vVbHCgS0xQ&feature=emb_logo)
+
+## Security Blogs
+* [epi052's blog](https://epi052.gitlab.io/notes-to-self/blog/)
 
 ## Misc Resources
 * [3 Hours of Studying & Creativity Music](https://www.youtube.com/watch?v=ggeQKhwymas&t=10804s)
