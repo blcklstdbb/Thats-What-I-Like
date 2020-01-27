@@ -2,6 +2,7 @@
 * [Windows Security](#windows-security)
   * [Malware Analysis](#malware-analysis)
   * [Exploit Development](#exploit-development)
+  * [Windows VMs](#windows-vms)
 * [macOS Security](#macos-security)
 * [Linux Security](#linux-security)
 * [Mobile Security](#mobile-security)
@@ -12,6 +13,8 @@
   * [Technical Write Ups](#technical-write-ups)
 * [Incident Response](#incident-response)
   * [macOS IR](#macos-ir)
+* [Programming Languages](#programming-languages)
+* [Cert Prep](#cert-prep)
 * [Security Blogs](#security-blogs)
 * [Misc Resources](#misc-resources)
   * [Books](#books)
@@ -29,6 +32,7 @@
 * [Reverse Engineering Intel x64 101](https://github.com/0xdidu/Reverse-Engineering-Intel-x64-101?files=1)
 * [Revsering Windows Libaries: Windows Library Code](https://repnz.github.io/posts/reversing-windows-libraries/)
 * [Reversing Windows Internals (Part 1) - Digging Into Handles, Callbacks & ObjectTypes](https://rayanfam.com/topics/reversing-windows-internals-part1/)
+* [Tips for Reverse-Engineering Malicious Code](https://zeltser.com/reverse-engineering-malicious-code-tips/)
 ### Malware Analysis
 * [OALabs's malware analysis videos](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg/videos)
 * [Sam Bowne's Practical Malware Analysis class (FREE)](https://samsclass.info/126/126_F19.shtml)
@@ -45,6 +49,8 @@
 * [Introduction to Windows shellcode development – Part 1](https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/)
 * [Introduction to Windows shellcode development – Part 2](https://securitycafe.ro/2015/12/14/introduction-to-windows-shellcode-development-part-2/)
 * [List of Corelan.be's exploit development tutorials](https://github.com/FabioBaroni/awesome-exploit-development#corelanbe)
+## Windows VMs
+* [FLARE VM - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing, etc.](https://github.com/fireeye/flare-vm)
 
 ## macOS Security
 * [Jonathan Levin's macOS and iOS books](http://newosxbook.com/index.php)
@@ -66,6 +72,7 @@
 * [Debugging With Gdb](https://azeria-labs.com/debugging-with-gdb-introduction/)
 * [Introduction To Arm Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Introduction To Writing Arm Shellcode](https://azeria-labs.com/writing-arm-shellcode/)
+* [Arm Heap Exploitation](https://azeria-labs.com/heap-exploitation-part-1-understanding-the-glibc-heap-implementation/)
 ### Android Security
 * [Android Pentesting CheatSheet](https://blog.dixitaditya.com/android-pentesting-cheatsheet/)
 * [Project Zero's Bad Binder](https://googleprojectzero.blogspot.com/2019/11/bad-binder-android-in-wild-exploit.html?m=1)
@@ -109,11 +116,20 @@
 
 ## Incident Response
 * [Sam Bown's Incident Response class (FREE)](https://samsclass.info/152/152_F19.shtml)
+
 ### macOS IR
 * [Investigating Mac OS X Systems](https://www.youtube.com/watch?v=7vVbHCgS0xQ&feature=emb_logo)
 
+## Programming Languages
+* [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)
+* [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/)
+
+## Cert Prep
+* [GIAC Exam Preparation Overview](https://www.giac.org/exams/preparation#practice)
+
 ## Security Blogs
 * [epi052's blog](https://epi052.gitlab.io/notes-to-self/blog/)
+* [h0mbre's blog](https://h0mbre.github.io/)
 
 ## Misc Resources
 * [3 Hours of Studying & Creativity Music](https://www.youtube.com/watch?v=ggeQKhwymas&t=10804s)
