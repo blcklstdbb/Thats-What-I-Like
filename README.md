@@ -92,6 +92,7 @@
 * [Getting Started With Objection + Frida](https://www.secjuice.com/objection-frida-guide/)
 
 ## Web App Security
+* [Whitepaper: The Definitive Guide to Same-origin Policy](https://www.netsparker.com/whitepaper-same-origin-policy/)
 * [How to Build an Automated Recon Pipeline with Python and Luigi - Part I (Setup and Scope)](https://epi052.gitlab.io/notes-to-self/blog/2019-09-01-how-to-build-an-automated-recon-pipeline-with-python-and-luigi/)
 * [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/)
 * [Security Best Practices for Managing API Access Tokens](https://dzone.com/articles/security-best-practices-for-managing-api-access-to)
