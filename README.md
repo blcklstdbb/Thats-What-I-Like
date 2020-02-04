@@ -111,6 +111,7 @@
 * [Practical Approaches for Testing and Breaking JWT Authentication](https://mazinahmed.net/blog/breaking-jwt/)
 * [A Deep Dive On The Most Critical API Vulnerability](https://medium.com/@inonst/a-deep-dive-on-the-most-critical-api-vulnerability-bola-1342224ec3f2)
 * [How to find more IDORs](https://medium.com/@vickieli/how-to-find-more-idors-ae2db67c9489)
+* [Fuzzing npm/nodejs WebAssembly parsing library with jsfuzz](https://webassembly-security.com/fuzzing-npm-nodejs-webassembly-parsing-library-with-jsfuzz/)
 ### Technical Write Ups
 * [How we broke PHP, hacked Pornhub and earned $20,000](https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/)
 
