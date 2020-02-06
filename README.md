@@ -135,6 +135,7 @@
 
 ## Misc Resources
 * [3 Hours of Studying & Creativity Music](https://www.youtube.com/watch?v=ggeQKhwymas&t=10804s)
+* [Microsoft's ApplicationInspector](https://github.com/Microsoft/ApplicationInspector)
 ### Books
 * [Lean In: Women, Work, and the Will to Lead ](https://www.amazon.com/Lean-Women-Work-Will-Lead/dp/0385349947/)
 * [Expert video series from Lean In](https://leanin.org/education#series)
