@@ -41,7 +41,7 @@
 * [Open Security Training's Reverse Engineering Malware](http://opensecuritytraining.info/ReverseEngineeringMalware.html)
 ### Exploit Development
 * [Rensselaer Polytechnic Institute's (RIPSEC) Modern Binary Exploitation](https://github.com/RPISEC/MBE)
-* [* [Open Security Training's Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
+* [Open Security Training's Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Open Security Training's Introduction To Software Exploits](http://opensecuritytraining.info/Exploits1.html)
 * [Open Security Training's Exploits 2: Exploitation in the Windows Environment](http://opensecuritytraining.info/Exploits2.html)
 * [Open Security Training's Buffer Overflow mystery box](https://web.archive.org/web/20170222100242/https://thesprawl.org/research/ost-introductory-x86-buffer-overflow-mystery-box/)
