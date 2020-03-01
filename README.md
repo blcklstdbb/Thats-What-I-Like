@@ -37,13 +37,17 @@
 * [OALabs's malware analysis videos](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg/videos)
 * [Sam Bowne's Practical Malware Analysis class (FREE)](https://samsclass.info/126/126_F19.shtml)
 * [Unpacking Malware Series - Maze Ransomware](https://poxyran.github.io/poxyblog/src/pages/22-10-2019-unpacking-malware-series-maze-ransomware.html)
+* [Open Security Training's Malware Dynamic Analysis](http://opensecuritytraining.info/MalwareDynamicAnalysis.html)
+* [Open Security Training's Reverse Engineering Malware](http://opensecuritytraining.info/ReverseEngineeringMalware.html)
 ### Exploit Development
-* [Rensselaer Polytechnic Institute's Modern Binary Exploitation](https://github.com/RPISEC/MBE)
+* [Rensselaer Polytechnic Institute's (RIPSEC) Modern Binary Exploitation](https://github.com/RPISEC/MBE)
+* [* [Open Security Training's Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
+* [Open Security Training's Introduction To Software Exploits](http://opensecuritytraining.info/Exploits1.html)
+* [Open Security Training's Exploits 2: Exploitation in the Windows Environment](http://opensecuritytraining.info/Exploits2.html)
+* [Open Security Training's Buffer Overflow mystery box](https://web.archive.org/web/20170222100242/https://thesprawl.org/research/ost-introductory-x86-buffer-overflow-mystery-box/)
 * [Scaling up Binary Exploitation Education](https://blog.ret2.io/2018/09/11/scalable-security-education/)
 * [Creating a Rootkit to Learn C](https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/)
 * [Analyze Crashes to find Security Vulnerabilities in your Apps](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/november/analyze-crashes-to-find-security-vulnerabilities-in-your-apps)
-* [Open Security Training's Buffer Overflow mystery box](https://web.archive.org/web/20170222100242/https://thesprawl.org/research/ost-introductory-x86-buffer-overflow-mystery-box/)
-* [Open Security Training's Introduction To Software Exploits](http://opensecuritytraining.info/Exploits1.html)
 * [Understanding Windows Shellcode](http://www.hick.org/code/skape/papers/win32-shellcode.pdf)
 * [Sam Bowne's Exploit Development class (FREE)](https://samsclass.info/127/127_S20.shtml)
 * [Introduction to Windows shellcode development – Part 1](https://securitycafe.ro/2015/10/30/introduction-to-windows-shellcode-development-part1/)
@@ -64,6 +68,7 @@
 * [LiME ~ Linux Memory Extractor (Also works for Android)](https://github.com/504ensicsLabs/LiME)
 
 ## Mobile Security
+* [Open Security Training's Introduction to ARM](http://opensecuritytraining.info/IntroARM.html)
 * [Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/)
 * [Maddie Stone: Whatsup with WhatsApp: A Detailed Walk Through of Reverse Engineering CVE-2019-3568](https://thecyberwire.com/stories/Maddie-Stone-Whatsup-with-WhatsApp-A-Detailed-Walk-Through-of-Reverse-Engineering-CVE-2019-3568.html)
 * [Sam Bowne's Hacking Mobile Devices class (FREE)](https://samsclass.info/128/128_S20.shtml)
